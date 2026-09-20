@@ -7,34 +7,21 @@
 
 ## 🌐 Socials
 
-[![Facebook](...)](...)
-[![Instagram](...)](...)
-[![LinkedIn](...)](...)
+- [Facebook](https://www.facebook.com/share/17AazQrZHP/)
+- [Instagram](https://www.instagram.com/yuh_gl/)
+- [LinkedIn](https://www.linkedin.com/in/le-huy-579a6b3a5/)
 
 ## 💻 Tech Stack
 
-### Languages
-...
-
 ### Frontend
-...
-
+ReactJS
+HTML5
+CSS3
 ### Backend & Database
-...
-
-### Tools
-...
-
-## 🚀 Featured Projects
-
-### 🔐 LegacyVault
-...
-
-### 🚪 Smart Door Lock
-...
-
-### 🛒 B-ShowSell
-...
+MySQL
+Java
+Python
+C
 
 ## 🌱 Currently Learning
 
@@ -44,12 +31,3 @@
 - Software Architecture
 - System Analysis & Design
 - Business Analysis
-
-## 📊 GitHub Stats
-
-![GitHub Stats](...)
-![Top Languages](...)
-
-## 📫 Contact
-
-📧 your-email@example.com
