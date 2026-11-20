@@ -4,7 +4,7 @@
 
 I turn business needs into clear requirements, use cases and UML models. My hands-on frontend experience helps me work closely with developers and keep business and technical teams aligned.
 
-🔎 Currently looking for a **Business Analyst Intern** (On-the-Job Training) position.
+🔎 Currently looking for a **Business Analyst Intern** position.
 
 ## 🧑‍💼 About me
 
