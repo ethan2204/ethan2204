@@ -23,7 +23,7 @@ I turn business needs into clear requirements, use cases and UML models. My hand
 **[Legacy Vault – Digital Legacy Management System](https://github.com/ethan2204/Legacy_Vault)** · *Frontend Developer* · Team of 5
 - Built the Vault Owner screens and the Staff, Legal and Admin portals with ReactJS (Vite)
 - Implemented Google login and a bilingual Vietnamese/English interface
-- Integrated the frontend with Spring Boot REST APIs; contributed 120+ commits through reviewed pull requests
+- Integrated the frontend with Spring Boot REST APIs; contributed 240+ commits and 65 merged pull requests
 
 ## 🛠️ Skills & tools
 
