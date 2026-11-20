@@ -43,5 +43,5 @@ I turn business needs into clear requirements, use cases and UML models. My hand
 
 ## 📫 Contact
 
-- Email: [legiahuya1.c3hn2021@gmail.com](mailto:legiahuya1.c3hn2021@gmail.com)
+- Email: [legiahuy2269@gmail.com](mailto:legiahuy2269@gmail.com)
 - LinkedIn: [linkedin.com/in/le-huy-579a6b3a5](https://www.linkedin.com/in/le-huy-579a6b3a5/)
